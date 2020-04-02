@@ -1,1 +1,1 @@
-FROM gcr.io/kaniko-project/executor
+FROM gcr.io/kaniko-project/executor:debug
